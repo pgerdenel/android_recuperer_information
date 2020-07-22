@@ -1,4 +1,7 @@
 ########## CODE SOURCE A LA DEMANDE #################
+2 versions :
+- version Android native
+- version Android web app
 
 Permet de récupérer les informations sur un périphérique Android ou AmazonOS : 
 - contact
