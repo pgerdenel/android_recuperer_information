@@ -3,7 +3,7 @@
 - version Android native
 - version Android web app
 
-Permet de récupérer les informations sur un périphérique Android ou AmazonOS : 
+Permet de récupérer les informations sur un périphérique Android : 
 - contact
 - notes
 - sms
